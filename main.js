@@ -27,7 +27,7 @@ var data = {
     Weather: {
         TrackTemp: 0,
         WindVel: 0,
-        WindDir: "N"
+        WindDir: windDirection(0)
     }
 };
 
