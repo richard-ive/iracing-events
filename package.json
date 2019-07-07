@@ -1,0 +1,27 @@
+{
+  "name": "iracing-events",
+  "version": "0.0.1",
+  "description": "Event Emitter for iRacing Events",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard-ive/iracing-events.git"
+  },
+  "keywords": [
+    "iracing"
+  ],
+  "author": "Richard Ive",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/richard-ive/iracing-events/issues"
+  },
+  "homepage": "https://github.com/richard-ive/iracing-events#readme",
+  "dependencies": {
+    "melanke-watchjs": "^1.5.0",
+    "node-irsdk": "^2.1.4"
+  },
+  "devDependencies": {}
+}
